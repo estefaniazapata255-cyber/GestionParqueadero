@@ -228,3 +228,52 @@ Durante el desarrollo del proyecto se utilizó inteligencia artificial como herr
 - Obtener explicaciones sobre Git, GitHub y flujo de trabajo con ramas.
 
 Todas las decisiones de implementación, desarrollo, pruebas y comprensión del código fueron realizadas y validadas por la estudiante.
+
+## 📸 Capturas del Sistema
+
+### 🖥️ Interfaz Principal
+![Interfaz Principal](docs/capturas/Interfaz-principal.png)
+
+### 🚗 Registro de Carro
+![Registro Carro](docs/capturas/registro-carro.png)
+
+### 🚗 Registro de Camioneta
+![Registro Camioneta](docs/capturas/registro-camioneta.png)
+
+### 🏍️ Registro de Motocicleta
+![Registro Moto](docs/capturas/registro-moto.png)
+
+### 🏍️ Registro de Moto con casco
+![Registro Moto Casco](docs/capturas/registro-moto-casco.png)
+
+### 🚗 Salida de Carro
+![Salida Carro](docs/capturas/salida-carro.png)
+
+### 🚗 Salida de Camioneta
+![Salida Camioneta](docs/capturas/salida-camioneta.png)
+
+### 🏍️ Salida de Moto
+![Salida Moto](docs/capturas/salida-moto.png)
+
+### 🏍️ Salida de Moto con casco
+![Salida Moto Casco](docs/capturas/salida-moto-casco.png)
+
+### 🔍 Búsqueda de Vehículo
+![Busqueda](docs/capturas/busqueda-vehiculo.png)
+
+### ❌ Intento en puesto ocupado
+![Ocupado](docs/capturas/moto-nueva.png)
+
+### ❌ Vehículo no encontrado
+![No encontrado](docs/capturas/no-esta.png)
+
+---
+
+## 📘 Diagrama UML
+
+![UML](docs/diagramas/uml-parqueadero.png)
+
+
+
+
+
