@@ -232,7 +232,7 @@ Todas las decisiones de implementación, desarrollo, pruebas y comprensión del 
 ## 📸 Capturas del Sistema
 
 ### 🖥️ Interfaz Principal
-![Interfaz Principal](docs/capturas/Interfaz-principal.png)
+![Interfaz Principal](docs/capturas/interfaz-principal.png)
 
 ### 🚗 Registro de Carro
 ![Registro Carro](docs/capturas/registro-carro.png)
