@@ -232,40 +232,40 @@ Todas las decisiones de implementación, desarrollo, pruebas y comprensión del 
 ## 📸 Capturas del Sistema
 
 ### 🖥️ Interfaz Principal
-![Interfaz Principal](docs/capturas/interfaz-principal.png)
+![Interfaz Principal](docs/capturas/la-interfaz-principal.png)
 
 ### 🚗 Registro de Carro
-![Registro Carro](docs/capturas/registro-carro.png)
+![Registro Carro](docs/capturas/registro-de-carro.png)
 
 ### 🚗 Registro de Camioneta
-![Registro Camioneta](docs/capturas/registro-camioneta.png)
+![Registro Camioneta](docs/capturas/registro-de-camioneta.png)
 
 ### 🏍️ Registro de Motocicleta
-![Registro Moto](docs/capturas/registro-moto.png)
+![Registro Moto](docs/capturas/registro-de-moto.png)
 
 ### 🏍️ Registro de Moto con casco
-![Registro Moto Casco](docs/capturas/registro-moto-casco.png)
+![Registro Moto Casco](docs/capturas/registro-moto-con-casco.png)
 
 ### 🚗 Salida de Carro
-![Salida Carro](docs/capturas/salida-carro.png)
+![Salida Carro](docs/capturas/salida-de-carro.png)
 
 ### 🚗 Salida de Camioneta
-![Salida Camioneta](docs/capturas/salida-camioneta.png)
+![Salida Camioneta](docs/capturas/salida-de-camioneta.png)
 
 ### 🏍️ Salida de Moto
-![Salida Moto](docs/capturas/salida-moto.png)
+![Salida Moto](docs/capturas/salida-de-moto.png)
 
 ### 🏍️ Salida de Moto con casco
-![Salida Moto Casco](docs/capturas/salida-moto-casco.png)
+![Salida Moto Casco](docs/capturas/salida-moto-con-casco.png)
 
 ### 🔍 Búsqueda de Vehículo
-![Busqueda](docs/capturas/busqueda-vehiculo.png)
+![Busqueda](docs/capturas/busqueda-de-vehiculo.png)
 
 ### ❌ Intento en puesto ocupado
-![Ocupado](docs/capturas/moto-nueva.png)
+![Ocupado](docs/capturas/una-moto-nueva.png)
 
 ### ❌ Vehículo no encontrado
-![No encontrado](docs/capturas/no-esta.png)
+![No encontrado](docs/capturas/vehiculo-no-esta.png)
 
 ---
 
